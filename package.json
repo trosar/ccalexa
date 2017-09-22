@@ -8,11 +8,12 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trosar/ccalexa"
+    "url": "git+https://github.com/trosar/ccalexa.git"
   },
   "keywords": [
     "alexa",
@@ -20,5 +21,10 @@
     "server",
     "echo"
   ],
-  "homepage": "https://github.com/trosar/ccalexa"
+  "homepage": "https://github.com/trosar/ccalexa",
+  "bugs": {
+    "url": "https://github.com/trosar/ccalexa/issues"
+  },
+  "author": "Thomas Rosario",
+  "license": "ISC"
 }
